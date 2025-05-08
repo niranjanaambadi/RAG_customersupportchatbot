@@ -1,2 +1,3 @@
-# RAG_customersupportchatbot
- with a Streamlit UI, a FastAPI endpoint, and a Dockerfile
+# RAG Customer Support Chatbot
+
+A Retrieval-Augmented Generation chatbot for enterprise SaaS customer support.
