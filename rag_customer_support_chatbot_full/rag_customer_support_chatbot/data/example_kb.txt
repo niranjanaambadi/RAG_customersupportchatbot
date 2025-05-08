@@ -1,0 +1,1 @@
+To reset your password, go to Settings > Account and click on 'Reset Password'.\nYou can update your username from the Profile section.\nOur platform supports integration with Slack and Teams.

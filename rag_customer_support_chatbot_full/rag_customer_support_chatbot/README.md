@@ -1,0 +1,1 @@
+# RAG Customer Support Chatbot\n\nA simple Retrieval-Augmented Generation chatbot using FAISS and OpenAI.
